@@ -1,6 +1,6 @@
-# Main
+# Введение
 
-## Getting Super Powers
+## Описание программного продукта
 
 Becoming a super hero is a fairly straight forward process:
 
