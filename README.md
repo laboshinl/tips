@@ -2,9 +2,9 @@
 description: This is test description
 ---
 
-# Test title
+# TrActor - анализатор сетервого трафика с использованием акторного подхода
 
-## Getting Super Powers
+## Сбор данных сетевого трафика приложения
 
 Becoming a super hero is a fairly straight forward process:
 
