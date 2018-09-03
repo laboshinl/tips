@@ -1,5 +1,5 @@
 {   
-    "title": "TrActor - система анализа сетевого трафика",
+    "title": "Cистема анализа сетевого трафика «TrActor»",
     "author": "Леонид Лабошин",
     "language": "ru",
     "plugins": ["hints", "autocover"]
