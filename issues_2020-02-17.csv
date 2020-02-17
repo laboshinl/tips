@@ -1,0 +1,208 @@
+id,summary,updaterName,updated,State,Priority,Sprint,Category,Assignee
+CMLB-1806,ComplexSubmodel / Возможность выбора субмодели в качестве reference'а / BE,alena.kamneva,1581324014516,Discussion,Minor,2020.3,Fixes&Improvements,skopin
+CMLB-2679,Submodels / Валидация полей на спец.символы / BE,alena.kamneva,1581324014515,Discussion,Normal,2020.3,Fixes&Improvements,skopin
+CMLB-3192,Key-results / Некорректное название сущности database / FE + BE,alena.kamneva,1581324014516,Discussion,Normal,2020.3,Fixes&Improvements,skopin
+CMLB-3584,Bench / Обрезать часть Path при слишком длинном Path / Specification,bogdan.kozatskiy,1581426547422,Open,Normal,2020.3,Fixes&Improvements,bogdan.kozatskiy
+CMLB-3636,Multivariant / Не блокируется кнопка Create при двойном клике  / FE,bogdan.kozatskiy,1581332589654,Confirmed,Normal,2020.3,Fixes&Improvements,bogdan.kozatskiy
+CMLB-3674,Multivariant / Проверка прав доступа для симуляций / BE,alena.kamneva,1581324014517,Discussion,Normal,2020.3,,anton.lukashin
+CMLB-3683,Feedback / Дублирование фидбека при создании при быстром клике на кнопку Create / FE,bogdan.kozatskiy,1581092190699,Open,Normal,2020.3,Fixes&Improvements,bogdan.kozatskiy
+CMLB-3694,"Users / Визуально показывать заблокированных пользователей в таблице ""Users"" / Specification",kirill.krasov,1581598566954,Open,Normal,2020.3,Fixes&Improvements,bogdan.kozatskiy
+CMLB-3791,Meta / Открытие страницы субмодели со страницы task'a / Specification,alena.kamneva,1581320734231,Discussion,Normal,2020.3,New feature,valerii.belopolskii
+CMLB-3792, Meta / Открытие страницы субмодели со страницы task'a / BE,valerii.belopolskii,1581242404534,Discussion,Normal,2020.3,Fixes&Improvements,valerii.belopolskii
+CMLB-3793,Meta / Открытие страницы субмодели со страницы task'a / FE,valerii.belopolskii,1581242395377,Discussion,Normal,2020.3,Fixes&Improvements,valerii.belopolskii
+CMLB-3894,"Simulation / Виснет страница при запуске на постпроцесс симуляции, удаленной с другой страницы / FE",alena.kamneva,1581324014517,Discussion,Minor,2020.3,Fixes&Improvements,skopin
+CMLB-4051,Table / Исследование активности кнопок в шапке таблиц / FE,nikita.knyazkin,1581598432462,Discussion,Normal,2020.3,Organization,nikita.knyazkin
+CMLB-4777,Multivariant / Изменение логики работы с  variable submodels / BE,alena.kamneva,1581324014517,Discussion,Normal,2020.3,Fixes&Improvements,skopin
+CMLB-4905,Tuning / Исправить сообщения для пользователя и диапазон значений в полях Before free и Number of nodes блока Parametres / BE,ekaterina.tcvetkova,1581308015771,Discussion,Minor,2020.3,Fixes&Improvements,skopin
+CMLB-4922,RemoteApp / Исследовать возможность удаленной работы с приложением на сервере через браузер / DevOps,alena.kamneva,1581576363851,Review Required,Normal,2020.3,New feature,nikita.kornilov
+CMLB-4962,Security / Провести анализ состояния развернутых окружений с точки зрения безопасности  / DevSecOps,anatoly.karpenko,1581557708450,Open,Normal,2020.3,Production support,anatoly.karpenko
+CMLB-4963,Развернуть IVRE для мониторинга сервисов / DevSecOps,anatoly.karpenko,1581557708449,In Progress,Normal,2020.3,Production support,anatoly.karpenko
+CMLB-5121,Стратегия развития проекта 2019,alena.kamneva,1581324014518,Discussion,Normal,2020.3,Organization,skopin
+CMLB-5149,Chart / Перейти на новый формат для графиков Key result / FE,kirill.krasov,1581490808556,Verified,Normal,2020.3,Technical debt,bogdan.kozatskiy
+CMLB-5220,Chart / Перейти на новый формат для графиков Key result / BE,kirill.krasov,1581490821796,Verified,Normal,2020.3,Technical debt,oleg.rekin
+CMLB-5339,Настроить возможность входа  TestLink через ldap аккаунт / DevOps,ekaterina.tcvetkova,1581596294947,Verified,Normal,2020.3,Fixes&Improvements,anatoly.karpenko
+CMLB-5345,Bench / Перенести чек-лист Submodel Duplicates в TestPad / QA,ekaterina.tcvetkova,1581646489517,Open,Normal,2020.3,Test Documentation,nikita.knyazkin
+CMLB-5346,Bench / Перенести чек-лист META в TestPad / QA,ekaterina.tcvetkova,1581646496383,Open,Normal,2020.3,Test Documentation,nikita.knyazkin
+CMLB-5347,Bench / Перенести чек-лист RefGraph в TestPad / QA,nikita.knyazkin,1581942346421,In Progress,Normal,2020.3,Test Documentation,nikita.knyazkin
+CMLB-5349,Bench / Перенести чек-лист Конвертация Simulation File в Submodel в TestPad / QA,nikita.knyazkin,1581686057664,Confirmed,Normal,2020.3,Test Documentation,nikita.knyazkin
+CMLB-5350,Bench / Перенести чек-лист Cluster в TestPad / QA,kirill.krasov,1581919831372,Open,Normal,2020.3,Test Documentation,kirill.krasov
+CMLB-5354,Bench / Перенести чек-лист Solvers в TestPad / QA,nikita.knyazkin,1581942360006,Confirmed,Normal,2020.3,Test Documentation,nikita.knyazkin
+CMLB-5408,"Tree / Исследование производительности, шаг 2 / BE",dmytro.miroshnychenko,1581319623672,Discussion,Normal,2020.3,Fixes&Improvements,dmytro.miroshnychenko
+CMLB-5427,Database / Автоматическое накатывание миграций при старте сервиса / BE,alena.kamneva,1581576363840,Discussion,Normal,2020.3,Production support,ilya.belan
+CMLB-5457,ProjectTemplate / При клонировании не наследуется дерево / BE,ilya.belan,1581899920937,Confirmed,Minor,2020.3,Fixes&Improvements,ilya.belan
+CMLB-5464,Jenkins / Генерация документации во время билда BE сервисов / DevOps,anatoly.karpenko,1581557633812,Verified,Normal,2020.3,Project Documentation,anatoly.karpenko
+CMLB-5473,Deploy / Сделать накатывание миграций БД опциональным / DevOps,leonid.laboshin,1581422244851,Review Required,Normal,2020.3,Technical debt,dmytro.miroshnychenko
+CMLB-5525,Project / Изменить логику управления проектной командой / Specification,valerii.belopolskii,1581242122301,Open,Normal,2020.3,Project Documentation,valerii.belopolskii
+CMLB-5664,Design / Header & layout,alena.kamneva,1581509908731,Open,Normal,2020.3,New feature,sveta.pershay
+CMLB-5694,Ref Graph / При клонировании Simulation длинное имя DMU в Ref Graph выходит за края модального окна на кнопке и перекрывает дерево в самом графике / FE,alena.kamneva,1581324014518,Discussion,Normal,2020.3,Fixes&Improvements,skopin
+CMLB-5699,Project / Автоматическое создание user group для позиций проекта с заданной ролью / Specification,valerii.belopolskii,1581242129319,Open,Normal,2020.3,Project Documentation,valerii.belopolskii
+CMLB-5703,"Tree / Некорректно отображается дерево, при наличии прав доступа на ObjectType только на user directory  / BE",vladimir.panchenko,1581323817525,Confirmed,Minor,2020.3,Fixes&Improvements,vladimir.panchenko
+CMLB-5755,Loadcase Matrix / API Для выбора колонок в модальном окне / Specification,alena.kamneva,1581324014521,Confirmed,Major,2020.3,Project Documentation,anton.lukashin
+CMLB-5757,Simulation / Продакшен 2019.15 не создать симулейшен на базе существующего / FE,alexey.tikhonov,1581335134327,Discussion,Normal,2020.3,Production support,alexey.tikhonov
+CMLB-5793,Queue / Новая страница очереди задач / Specification,vladimir.panchenko,1581928707247,Open,Normal,2020.3,Project Documentation,anton.lukashin
+CMLB-5794,Values / Улучшения для дополнительных колонок / BE,alena.kamneva,1581324014520,Open,Minor,2020.3,Fixes&Improvements,skopin
+CMLB-5798,DevOps / Развернуть Stage окружение новой автоматизацией. Создать джобы для обновления всех сервисов в стейдж окружении,vladimir.panchenko,1581930919018,Open,Major,2020.3,Fixes&Improvements,vladimir.panchenko
+CMLB-5803,Production / Обновить версию cml-solver'a на расчетных узлах,alena.kamneva,1581324014520,Open,Critical,2020.3,Production support,skopin
+CMLB-5807,ClustersManager / Task / Обработка чеклайнов  / Specification,alena.kamneva,1581576363839,Discussion,Normal,2020.3,Project Documentation,ilya.belan
+CMLB-5825,Bench / Спроектировать тест-кейсы в TestLink на основании багов с приоритетом Critical / QA,nikita.knyazkin,1581934339677,Confirmed,Normal,2020.3,Test Documentation,nikita.knyazkin
+CMLB-5826,Bench / Спроектировать тест-кейсы в TestLink на основании багов с высоким приоритетом Major / QA,kirill.krasov,1581919839079,Open,Normal,2020.3,Test Documentation,kirill.krasov
+CMLB-5827,Queue / Спроектировать спецификацию / QA,valerii.belopolskii,1581597461330,Open,Major,2020.3,New feature,valerii.belopolskii
+CMLB-5867,License Manager / Описание подключения нового менеджера лицензий,alena.kamneva,1581324014520,Open,Minor,2020.3,Organization,skopin
+CMLB-5872,Jenkins / Создание ldap аккаунта в jenkins / DevOps,leonid.laboshin,1581680730107,Review Required,Normal,2020.3,Production support,dmytro.miroshnychenko
+CMLB-5884,Infrastructure / Процесс переезда прода в новую сеть / DevOps,alena.kamneva,1581509887826,Reopened,Normal,2020.3,Production support,skopin
+CMLB-5899,User / Некорректный url системы в сообщении на почте / DevOps,ilya.belan,1581341313198,Reopened,Minor,2020.3,Fixes&Improvements,ilya.belan
+CMLB-5910,KB /  Сделать сессии длиннее / BE,pavel.epanechkin,1581324864604,Discussion,Normal,2020.3,Fixes&Improvements,pavel.epanechkin
+CMLB-5987,Loadcase / Target Values / Нечисловые Target Values,alena.kamneva,1581324014519,Open,Normal,2020.3,Fixes&Improvements,skopin
+CMLB-5988,ClustersManager / File / Specification,oleg.rekin,1581449988092,Confirmed,Normal,2020.3,Project Documentation,oleg.rekin
+CMLB-6026,"Matrix / Не открывается матрица лоадкейса, имеющая вложенные лоадкейсы FE",alexey.tikhonov,1581335134328,Discussion,Normal,2020.3,New feature,alexey.tikhonov
+CMLB-6032,Bench / Сбор информации по инструментам для улучшения процесса тестирования / QA,nikita.knyazkin,1581325254537,Open,Minor,2020.3,Organization,nikita.knyazkin
+CMLB-6050,RemoteApp | Реализовать небольшой VueApp для отображения запущенных на remote instance приложений в iFrame,alena.kamneva,1581576363851,In Progress,Normal,2020.3,New feature,nikita.kornilov
+CMLB-6051,"RemoteApp | Запустить несколько тестовых машин и процессов, настроить RDP и GL для тестирования работы с ними через клиент Bench",alena.kamneva,1581576363850,Review Required,Normal,2020.3,New feature,nikita.kornilov
+CMLB-6063,Infrastructure / Перенос машин в новую сеть / DevOps,leonid.laboshin,1581508809696,Reopened,Major,2020.3,Production support,skopin
+CMLB-6092,Queue / Спроектировать тестовую документацию на основе спецификации / QA,valerii.belopolskii,1581930678368,Confirmed,Major,2020.3,New feature,valerii.belopolskii
+CMLB-6097,Tree / Refactoring / Вынести основную логику создания дерева в отдельный модуль / FE,alexey.tikhonov,1581509297727,Obsolete,Normal,2020.3,Technical debt,alexey.tikhonov
+CMLB-6132,Clusters Manager / Solver / Запуск солверов / Specification,vladimir.panchenko,1581323849597,Open,Normal,2020.3,Project Documentation,vladimir.panchenko
+CMLB-6133,Clusters Manager / Task / Обработка запущенных задач / Specification,alena.kamneva,1581576363848,Open,Normal,2020.3,Project Documentation,ilya.belan
+CMLB-6139,Bench / Разработать разные иконки для Wiki-pages и Documents / UI,alena.kamneva,1581509908730,Open,Normal,2020.3,,sveta.pershay
+CMLB-6153,Bench / Performance проблемы в системе / BE,alena.kamneva,1581324042108,Discussion,Major,2020.3,Fixes&Improvements,alena.kamneva
+CMLB-6165,Bench / Разобраться с property файлами / BE,oleg.rekin,1581336991730,Open,Normal,2020.3,Technical debt,oleg.rekin
+CMLB-6171,Bench / Optimize Integration Tests / BE,pavel.epanechkin,1581586762835,Confirmed,Normal,2020.3,Technical debt,pavel.epanechkin
+CMLB-6174,Queue / Resources. Clusters /  Реализовать верстку и функционал (mock data) виджета Resources - Clusters  / FE,alena.kamneva,1581576343660,Fixed,Normal,2020.3,New feature,alexey.tikhonov
+CMLB-6175,Queue / Resources. Licenses / Реализовать верстку и функционал (mock data) виджета Resources - Licenses / FE,alexey.tikhonov,1581677813731,Fixed,Normal,2020.3,New feature,alexey.tikhonov
+CMLB-6176,Queue / Resources. Tunings /  Реализовать верстку и общую логику работы виджета Resources - Tunings  (с использованием mock data)  / FE,alexey.tikhonov,1581598573578,Review Required,Normal,2020.3,New feature,alexey.tikhonov
+CMLB-6183,Tree / Не открывается контекстное меню в root директории дерева / FE,alexey.tikhonov,1581335127004,Confirmed,Normal,2020.3,Technical debt,alexey.tikhonov
+CMLB-6190,Clipboard / Пустая таблица Values на клипборде открывается 1.9 минуты / BE,oleg.rekin,1581433379616,Reopened,Normal,2020.3,Fixes&Improvements,ilya.belan
+CMLB-6215,Bench / Завершить разработку нового Workflow для Youtrack,alena.kamneva,1581324014519,Open,Normal,2020.3,Organization,anton.lukashin
+CMLB-6225,Profile / Расширить функционал использования LDAP на Bench / BE,valerii.belopolskii,1581666401930,Discussion,Normal,2020.3,New feature,valerii.belopolskii
+CMLB-6233,Core / Рефакторинг пакетов в тестах / BE,pavel.epanechkin,1581498393443,Confirmed,Normal,2020.3,Technical debt,pavel.epanechkin
+CMLB-6241,Clusters manager / Solver / CRUD / BE,alena.kamneva,1581576363849,Open,Normal,2020.3,Project Documentation,ilya.belan
+CMLB-6243,Clusters manager / Task / Получения задач / Specification,alena.kamneva,1581576363849,Open,Normal,2020.3,Project Documentation,ilya.belan
+CMLB-6254,Clusters Manager / Cluster / Slurm / Specification,dmytro.miroshnychenko,1581334914793,Open,Normal,2020.3,Project Documentation,pavel.epanechkin
+CMLB-6255,Clusters Manager / Cluster / Torque / Specification,dmytro.miroshnychenko,1581334939111,Open,Normal,2020.3,Project Documentation,pavel.epanechkin
+CMLB-6256,Clusters Manager / Cluster / Bench / Specification,vladimir.panchenko,1581942251821,Open,Normal,2020.3,Project Documentation,pavel.epanechkin
+CMLB-6259,Clusters Manager / Cluster / Bench / Реализовать запуск задач / Specification,vladimir.panchenko,1581323834636,Open,Normal,2020.3,Project Documentation,vladimir.panchenko
+CMLB-6262,Clusters Manager / Cluster / Bench / Реализовать проверку состояния кластера / BE,vladimir.panchenko,1581942257102,Review Required,Normal,2020.3,New ClustersManager,dmytro.miroshnychenko
+CMLB-6266,Production / Перенести группы из Access Rights в проектные команды / BE,ekaterina.tcvetkova,1581307949919,Testing,Major,2020.3,Fixes&Improvements,ekaterina.tcvetkova
+CMLB-6268,Stage / Создать актуальный тестовый dump для проведения тестирования / BE,ekaterina.tcvetkova,1581307974955,Open,Normal,2020.3,New feature,ekaterina.tcvetkova
+CMLB-6269,Stage / Создать тестовый dump для проведения тестирования / BE,ekaterina.tcvetkova,1581307965118,Discussion,Normal,2020.3,New feature,ekaterina.tcvetkova
+CMLB-6276,Loadcase Matrix / Добавить изменение ширины колонок / FE,alexey.tikhonov,1581335146208,Reopened,Normal,2020.3,Fixes&Improvements,alexey.tikhonov
+CMLB-6284,Queue / Шапка и флов / Specification,bogdan.kozatskiy,1581434865901,Closed,Normal,2020.3,Project Documentation,bogdan.kozatskiy
+CMLB-6286,Queue / Новые таблицы задач / Specification,valerii.belopolskii,1581674379540,Open,Normal,2020.3,Project Documentation,bogdan.kozatskiy
+CMLB-6287,Queue / Тюнинги / Specification,alexey.tikhonov,1581689750162,Open,Normal,2020.3,New feature,bogdan.kozatskiy
+CMLB-6288,Queue / Лицензии / Specification,vladimir.panchenko,1581927467119,Open,Normal,2020.3,New feature,bogdan.kozatskiy
+CMLB-6290,Queue / Блочный вид для задач / Specification,valerii.belopolskii,1581920494479,Open,Normal,2020.3,New feature,bogdan.kozatskiy
+CMLB-6312,Loadcase / Отредактировать сообщение об ошибках при импорте Target Values в лоадкейс / BE,valerii.belopolskii,1581674104080,Closed,Normal,2020.3,Fixes&Improvements,vladimir.panchenko
+CMLB-6321,Bench /  При изменении имени сущности Title остаётся прежним / FE,alexey.tikhonov,1581335134328,Discussion,Minor,2020.3,Fixes&Improvements,alexey.tikhonov
+CMLB-6328,Role / При изменении Visibility Scope на Project роль не удаляется из автогрупп / BE,vladimir.panchenko,1581323871463,Discussion,Minor,2020.3,Fixes&Improvements,vladimir.panchenko
+CMLB-6331,"Добавить использование lombok на сервисах helpdesk, metaproxy, tasks-statistics / BE",ilya.belan,1581888158820,In Progress,Normal,2020.3,Technical debt,ilya.belan
+CMLB-6336,"Flow / Решить, что значат цвета flow-элементов / UI/UX",alena.kamneva,1581576391455,Discussion,Normal,2020.3,Fixes&Improvements,nikita.kornilov
+CMLB-6360,Queue / Сделать блок задач фиксированым / FE,bogdan.kozatskiy,1581509959560,Fixed,Normal,2020.3,New feature,bogdan.kozatskiy
+CMLB-6363,ExportProject / Экспорт/импорт Multivariant проекта в новое окружение/ BE,nikita.knyazkin,1581705212148,Closed,Normal,2020.3,New feature,vladimir.panchenko
+CMLB-6364,ExportProject / Экспорт/импорт Storyboards проекта в новое окружение/ BE,nikita.knyazkin,1581705219108,Closed,Normal,2020.3,New feature,oleg.rekin
+CMLB-6365,ExportProject / Экспорт/импорт Wikipages проекта в новое окружение/ BE,vladimir.panchenko,1581942748558,Fixed,Normal,2020.3,New feature,ilya.belan
+CMLB-6370,Bench / Некорректное отображение Description у DMU и Simulation/ FE,bogdan.kozatskiy,1581092769355,Open,Minor,2020.3,Fixes&Improvements,bogdan.kozatskiy
+CMLB-6374,Task / Добавить Name и Title на странице задачи / FE,alexey.tikhonov,1581335127003,Confirmed,Normal,2020.3,Fixes&Improvements,alexey.tikhonov
+CMLB-6375,KB / Создать описание в KB / DevOps,anatoly.karpenko,1581336077751,Open,Normal,2020.3,Project Documentation,anatoly.karpenko
+CMLB-6393,ORM / Добавить возможность конфигурации query с with clause / BE,oleg.rekin,1581433506646,Reopened,Normal,2020.3,Fixes&Improvements,ilya.belan
+CMLB-6395,Infrastructure / Создание документации по инфраструктурным машинам Prod / DevOps,leonid.laboshin,1581593627373,Review Required,Major,2020.3,Project Documentation,dmytro.miroshnychenko
+CMLB-6405,Design / Header & layout /  Mockups,alena.kamneva,1581509908732,Open,Normal,2020.3,,sveta.pershay
+CMLB-6406,Design / Header & layout /  Design,alena.kamneva,1581509908732,Open,Normal,2020.3,,sveta.pershay
+CMLB-6408,Bench / Задачи технического долга на FE / Specification,alexey.tikhonov,1581677669973,Confirmed,Normal,2020.3,Project Documentation,alexey.tikhonov
+CMLB-6412,"Queue / Создать точный перечень событий, которые должны вызывать изменения страницы в realtime",alena.kamneva,1581676764934,Open,Normal,2020.3,New feature,skopin
+CMLB-6416,Queue / Описание работы с тасками в текущей версии очереди / Specification,alena.kamneva,1581576378481,Discussion,Major,2020.3,Project Documentation,maria.gruzdeva
+CMLB-6417,Queue / Оценить трудоемкость задач / BE,alena.kamneva,1581669449058,Review Required,Normal,2020.3,New feature,skopin
+CMLB-6419,Cluster Manager / Синхронизация файлов с использованием rsync / BE,oleg.rekin,1581450185193,Review Required,Normal,2020.3,New ClustersManager,dmytro.miroshnychenko
+CMLB-6421,Cluster Manager / Оптимизировать синхронизацию без rsync / BE,oleg.rekin,1581332803309,Open,Normal,2020.3,New ClustersManager,oleg.rekin
+CMLB-6422,Cluster Manager / Реализовать обработку ошибок для синхронизации без rsync / BE,oleg.rekin,1581442562095,Open,Normal,2020.3,New ClustersManager,oleg.rekin
+CMLB-6433,Queue / Обновления данных по сокетам / Specification,pavel.epanechkin,1581879689147,Open,Normal,2020.3,New feature,bogdan.kozatskiy
+CMLB-6452,Loadcase / Bar Chart & Line Chart отображать по оси абсцисс значение Date Created simulation / BE,alena.kamneva,1581576363848,Open,Major,2020.3,Fixes&Improvements,ilya.belan
+CMLB-6471,CML-ORM / Убрать зависимость от web-api / BE,vladimir.panchenko,1581941771124,Fixed,Normal,2020.3,Technical debt,vladimir.panchenko
+CMLB-6473,Jenkins / Всегда запускать юнит тесты при сборке core / BE,leonid.laboshin,1581677163506,Fixed,Normal,2020.3,Fixes&Improvements,anatoly.karpenko
+CMLB-6474,Jenkins / Добавить джобы для билда библиотек / BE,leonid.laboshin,1581676913876,Review Required,Normal,2020.3,Fixes&Improvements,dmytro.miroshnychenko
+CMLB-6475,Gitlab / Не работает прием MR в elegans через веб-интерфейс / DevOps,leonid.laboshin,1581606444689,Review Required,Normal,2020.3,Fixes&Improvements,dmytro.miroshnychenko
+CMLB-6476,Prometheus / Добавить дашборд с запросами к nginx / DevOps,leonid.laboshin,1581681282266,Confirmed,Normal,2020.3,Production support,leonid.laboshin
+CMLB-6477,Queue / Resources. Clusters / API для виджета Resources - Clusters / BE,pavel.epanechkin,1581690776524,Fixed,Normal,2020.3,New feature,pavel.epanechkin
+CMLB-6478,Queue / Resources. Clusters / Реализовать работу с API для виджета Resources - Clusters / FE,alexey.tikhonov,1581678667706,In Progress,Normal,2020.3,New feature,alexey.tikhonov
+CMLB-6479,Queue / Resources. Licenses / Реализовать API для компонента Resources - Licenses / BE,vladimir.panchenko,1581927467118,Review Required,Normal,2020.3,New feature,pavel.epanechkin
+CMLB-6480,Queue / Resources. Licenses / Реализовать работу с API для виджета Resources - Licenses / FE,alexey.tikhonov,1581335127003,Open,Normal,2020.3,New feature,alexey.tikhonov
+CMLB-6486,Убрать UNSTABLE состояние из build_* job / DevOps,anatoly.karpenko,1581644223737,In Progress,Normal,2020.3,Fixes&Improvements,anatoly.karpenko
+CMLB-6489,Queue / Перенести старые таблицы очереди на новую страницу очереди  / FE,valerii.belopolskii,1581674402563,Closed,Normal,2020.3,New feature,bogdan.kozatskiy
+CMLB-6492,Simulation / Привести в соответствие спецификацию / QA,kirill.krasov,1581679174101,Verified,Normal,2020.3,Project Documentation,kirill.krasov
+CMLB-6497,Bench / Обновить модальные окна и привести их к новому виду / Specification,nikita.knyazkin,1581513367767,Open,Normal,2020.3,Fixes&Improvements,alena.kamneva
+CMLB-6498,Jenkins / Упала джоба обновления UI на стейдже Stage_NG / DevOps,valerii.belopolskii,1581511207003,Closed,Major,2020.3,Fixes&Improvements,leonid.laboshin
+CMLB-6499,Queue / Открывать блок Tasks при переходе на страницу очереди и сохранять его состояние / FE,valerii.belopolskii,1581679096278,Closed,Normal,2020.3,New feature,bogdan.kozatskiy
+CMLB-6500,Queue / Текущие баги в разработке новой страницы очереди / FE,valerii.belopolskii,1581929681083,In Progress,Normal,2020.3,Fixes&Improvements,bogdan.kozatskiy
+CMLB-6501,Queue / Текущие баги в разработке новой страницы очереди / BE,vladimir.panchenko,1581928870158,Fixed,Normal,2020.3,Fixes&Improvements,pavel.epanechkin
+CMLB-6502,Bench / Разработать  новый дизайн для модальных окон Run и Run PostProc / UI,alena.kamneva,1581576363850,Review Required,Normal,2020.3,Fixes&Improvements,nikita.kornilov
+CMLB-6503,Bench / Оценить трудозатраты по обновлению модальных окон в проекте /FE,alena.kamneva,1581337948651,Open,Normal,2020.3,Organization,alexey.tikhonov
+CMLB-6507,Queue / Resources / Реализовать API для компонента Resources - Tunings / BE,alexey.tikhonov,1581689393374,Open,Normal,2020.3,New feature,pavel.epanechkin
+CMLB-6510,Bench / Создать учетки для входа в Бенч / BE,nikita.knyazkin,1581500188064,Closed,Normal,2020.3,Organization,ilya.belan
+CMLB-6511,"DMU / Не показывать информацию о сущности, при отсутствии на неё прав доступа / BE",pavel.epanechkin,1581352390085,Confirmed,Normal,2020.3,Fixes&Improvements,pavel.epanechkin
+CMLB-6520,"Bench / Разработать  новый дизайн для модальных окон, содержащих поле Position / UI",alena.kamneva,1581576363850,Open,Normal,2020.3,Fixes&Improvements,nikita.kornilov
+CMLB-6521,Submodel / Label name Duplicate OFF не помещается в видимой области элемента в модальном окне Uploaded files / FE,bogdan.kozatskiy,1581420012257,Obsolete,Minor,2020.3,Fixes&Improvements,bogdan.kozatskiy
+CMLB-6524,Stage / Jenkins / Не работают джобы деплоя / DevOps,nikita.knyazkin,1581502047510,Closed,Normal,2020.3,Fixes&Improvements,leonid.laboshin
+CMLB-6525,Meetings 2020.3,ilya.belan,1581942988104,Open,Normal,2020.3,Organization,alena.kamneva
+CMLB-6526,Bench / Одновременный деплой stage и сервера с документацией / DevOps,leonid.laboshin,1581432822619,Review Required,Normal,2020.3,Fixes&Improvements,dmytro.miroshnychenko
+CMLB-6527,Simulation / Доработать тестовую документацию / QA,ekaterina.tcvetkova,1581646505078,Open,Normal,2020.3,Test Documentation,
+CMLB-6528,Production / Зависли задачи в состоянии Terminating / BE,dmytro.miroshnychenko,1581320497563,Discussion,Critical,2020.3,Production support,dmytro.miroshnychenko
+CMLB-6529,Queue / Resources / Продумать новый  API для компонента Resources - Tunings / FE,pavel.epanechkin,1581685440150,Closed,Normal,2020.3,New feature,alexey.tikhonov
+CMLB-6530,Queue / Реализовать логику для стрелок / FE,bogdan.kozatskiy,1581941394821,Discussion,Normal,2020.3,New feature,bogdan.kozatskiy
+CMLB-6531,Queue / Проверки прав доступа / FE,bogdan.kozatskiy,1581689042310,Fixed,Normal,2020.3,New feature,bogdan.kozatskiy
+CMLB-6532,Solver / Рефакторинг и обновление solver-service на production environment / Specification,leonid.laboshin,1581680784695,Open,Normal,2020.3,Production support,oleg.rekin
+CMLB-6533,Clusters Manager / Cluster / Bench / Добавить ограничение на количество запускаемых задач / BE,vladimir.panchenko,1581419496380,Confirmed,Normal,2020.3,New ClustersManager,vladimir.panchenko
+CMLB-6534,Clusters Manager / Cluster / Bench / Проверка нового механизма остановки задач / BE,oleg.rekin,1581712331935,In Progress,Normal,2020.3,New ClustersManager,ilya.belan
+CMLB-6535,Clusters Manager / Clsuter / Bench / Поправить синхронный запуск солвера / BE,pavel.epanechkin,1581325079657,Confirmed,Normal,2020.3,New ClustersManager,pavel.epanechkin
+CMLB-6536,Clusters Manager / Cluster / Bench / Реализовать резервирование ресурсов / BE,ilya.belan,1581672455420,Confirmed,Normal,2020.3,New ClustersManager,ilya.belan
+CMLB-6537,Clusters Manager / Infrustructure / Использовать OffsetDateTime во всех dto / BE,ilya.belan,1581521691034,Review Required,Normal,2020.3,New ClustersManager,dmytro.miroshnychenko
+CMLB-6538,Clusters Manager / File / Начальная инициализация файлов в рабочей директории задачи / BE,oleg.rekin,1581331368248,Confirmed,Normal,2020.3,New ClustersManager,oleg.rekin
+CMLB-6539,Clusters Manager / Task / Инициализировать все необходимые task properties на core / BE,pavel.epanechkin,1581325185716,Confirmed,Normal,2020.3,New ClustersManager,pavel.epanechkin
+CMLB-6540,Clusters Manager / License / Добавить запрос на количество доступных лицензий / BE,pavel.epanechkin,1581325254863,Confirmed,Normal,2020.3,New ClustersManager,pavel.epanechkin
+CMLB-6541,Prod / Настроить архивацию rsync логов на проде / DevOps,leonid.laboshin,1581605109914,Review Required,Normal,2020.3,Production support,dmytro.miroshnychenko
+CMLB-6542,Ansible / Убрать дефолтное значение для mail сервера / DevOps,leonid.laboshin,1581595659297,Review Required,Normal,2020.3,Production support,dmytro.miroshnychenko
+CMLB-6543,Внедрение / Оценка описаний служебных компонентов / DevOps,alena.kamneva,1581337634719,Open,Normal,2020.3,Organization,leonid.laboshin
+CMLB-6544,Production / Хранение дампов БД / DevOps,leonid.laboshin,1581595315992,Review Required,Normal,2020.3,Production support,dmytro.miroshnychenko
+CMLB-6545,Внедрение /  Выяснить тестовое покрытие во всех сервисах / BE,ilya.belan,1581682743053,Review Required,Normal,2020.3,Organization,alena.kamneva
+CMLB-6546,Jenkins / Добавить возможность указывать кастомные версии сервисов для джобы install all / DevOps,leonid.laboshin,1581504213860,Review Required,Normal,2020.3,Fixes&Improvements,dmytro.miroshnychenko
+CMLB-6547,Core / Починить накатывание дампа с контекстами `prod` и `local-dev` / BE,vladimir.panchenko,1581681632767,Fixed,Normal,2020.3,Technical debt,vladimir.panchenko
+CMLB-6548,Clusters Manager / Infrastructure / Улучшение сериализации NotResolvedString / BE,ilya.belan,1581696884819,Review Required,Normal,2020.3,New ClustersManager,ilya.belan
+CMLB-6549,Clusters Manager / Cluster / Bench / Поддержать кастомые действия при остановке задачи / BE,vladimir.panchenko,1581419519889,Confirmed,Normal,2020.3,New ClustersManager,vladimir.panchenko
+CMLB-6550,Bench / Задача по организации процесса тестирования / QA,ekaterina.tcvetkova,1581935090985,Open,Normal,2020.3,Organization,ekaterina.tcvetkova
+CMLB-6551,Bench / Any other business 2020.3/ QA,valerii.belopolskii,1581671153267,Open,Normal,2020.3,Organization,valerii.belopolskii
+CMLB-6552,Issue / 500 ошибка при создании сущности / BE,nikita.knyazkin,1581349136581,Can't Reproduce,Normal,2020.3,Fixes&Improvements,ilya.belan
+CMLB-6553,Service Template / Обновить и задокументировать шаблон для базового java сервиса / BE,vladimir.panchenko,1581943666194,Fixed,Normal,2020.3,Technical debt,oleg.rekin
+CMLB-6554,Solver / Перевести сервис на стандартный шаблон / BE,anton.lukashin,1581429378296,Confirmed,Normal,2020.3,Production support,oleg.rekin
+CMLB-6555,Solver / Обновить механизм автообновления с учетом перехода к jar / BE,oleg.rekin,1581419461101,Confirmed,Normal,2020.3,Production support,oleg.rekin
+CMLB-6556,Metaproxy / Неправильный healthcheck при регистрации в service discovery / BE,ilya.belan,1581899900735,In Progress,Normal,2020.3,Fixes&Improvements,ilya.belan
+CMLB-6557,Cluster Manager / Реализовать перезапуск rsync при ошибках и перезапуске сервиса / BE,oleg.rekin,1581443219926,Confirmed,Normal,2020.3,New ClustersManager,oleg.rekin
+CMLB-6559,Table / Отображение данных в таблице / FE,bogdan.kozatskiy,1581337016653,Confirmed,Normal,2020.3,Technical debt,bogdan.kozatskiy
+CMLB-6560,Table / Кастомные ячейки / FE,alena.kamneva,1581927317818,Confirmed,Normal,2020.3,New feature,bogdan.kozatskiy
+CMLB-6561,Bench / Обрезать часть Path при слишком длинном Path / FE,bogdan.kozatskiy,1581340573313,Confirmed,Normal,2020.3,Fixes&Improvements,bogdan.kozatskiy
+CMLB-6562,Solver / Обновить механизм автообновления с учетом перехода к jar / DevOps,leonid.laboshin,1581680768662,In Progress,Normal,2020.3,Production support,leonid.laboshin
+CMLB-6564,Queue / Обновление данных шапки / FE,bogdan.kozatskiy,1581689165838,In Progress,Normal,2020.3,New feature,bogdan.kozatskiy
+CMLB-6565,Queue / Обновление данных шапки / BE,pavel.epanechkin,1581879689146,In Progress,Normal,2020.3,New feature,pavel.epanechkin
+CMLB-6566,"Queue / Изменить логику формирования полей задачи, описывающих солвер / BE",vladimir.panchenko,1581603888760,Fixed,Normal,2020.3,New feature,pavel.epanechkin
+CMLB-6568,Value / Не удаляются лишние пробелы при загрузке key results / BE,nikita.knyazkin,1581708675579,Testing,Normal,2020.3,Fixes&Improvements,nikita.knyazkin
+CMLB-6569,Solver / Разработать ansible-скрипты для развертывания на Linux и Windows / DevOps,leonid.laboshin,1581680784694,In Progress,Normal,2020.3,Production support,leonid.laboshin
+CMLB-6570,"Users / Добавить колонку ""Status""  / BE",bogdan.kozatskiy,1581432113677,Discussion,Normal,2020.3,Fixes&Improvements,alena.kamneva
+CMLB-6571,Users / Добавить иконку блокировки в ячейку таблицы с именем пользователя / FE,kirill.krasov,1581665542595,Verified,Normal,2020.3,Fixes&Improvements,bogdan.kozatskiy
+CMLB-6575,FE / Refactoring / Angular  Сравнительный анализ функционала библиотек ag-grid и ignite-ui для реализации компонента таблицы.,alexey.tikhonov,1581677687333,Verified,Major,2020.3,Technical debt,alexey.tikhonov
+CMLB-6576,Production / Задачи зависли в состоянии Running / BE,vladimir.panchenko,1581687237431,Fixed,Major,2020.3,Production support,vladimir.panchenko
+CMLB-6578,Обновить Apache Guacamole,anatoly.karpenko,1581644070689,Verified,Normal,2020.3,New feature,anatoly.karpenko
+CMLB-6580,Flag / Доработать спецификацию по функциональности / QA,ekaterina.tcvetkova,1581646508606,Open,Normal,2020.3,Project Documentation,
+CMLB-6581,TVV / не импортируются key-results после постпроцессинга / BUG (BE),vladimir.panchenko,1581596063479,Fixed,Major,2020.3,Production support,skopin
+CMLB-6582,Queue / Ознакомить с бизнес-логикой новой страницы очереди / QA,ekaterina.tcvetkova,1581646463746,Open,Major,2020.3,Organization,valerii.belopolskii
+CMLB-6583,Queue / Изучить созданную спецификацию по новой странице очереди  / QA,kirill.krasov,1581940966360,In Progress,Normal,2020.3,New feature,kirill.krasov
+CMLB-6584,Bench / Эксплуатационная документация. Создание руководства пользователя (РП) / BA,maria.gruzdeva,1581687105325,Confirmed,Normal,2020.3,Project Documentation,maria.gruzdeva
+CMLB-6585,Bench / Изучение ГОСТ-34 и РД 50-34.698-90 / BA,maria.gruzdeva,1581680990928,Confirmed,Normal,2020.3,Organization,maria.gruzdeva
+CMLB-6586,Bench / Изучение функционала системы / BA,maria.gruzdeva,1581928181568,Confirmed,Normal,2020.3,Organization,maria.gruzdeva
+CMLB-6587,Queue / Провести ad-hoc тестирование новой страницы очереди в рамках подготовки к демо / QA,valerii.belopolskii,1581930754066,Confirmed,Major,2020.3,New feature,valerii.belopolskii
+CMLB-6588,Bench / Создание схемы функций (в т.ч. задач) Системы / BA,maria.gruzdeva,1581589896053,Open,Normal,2020.3,Organization,maria.gruzdeva
+CMLB-6589,Table / Привести все кнопки в таблицах к принятому виду и бизнес-логике / Specification,valerii.belopolskii,1581668374572,Open,Normal,2020.3,Fixes&Improvements,nikita.knyazkin
+CMLB-6590,Статус Тасков / Обсудить возможность разделение статуса Failed на 2 -  в случае некорректного завершения расчета и возникновения ошибки не связанной с солвером,skopin,1581605435468,Open,Major,2020.3,,skopin
+CMLB-6591,Bench / Задачи по 3 спринту,alena.kamneva,1581932215054,Open,Normal,2020.3,Organization,alena.kamneva
+CMLB-6592,Bench / Изучение файлов от Димы Рыжова / BA,maria.gruzdeva,1581675547214,Closed,Normal,2020.3,Project Documentation,maria.gruzdeva
+CMLB-6593,Test / Добавить генерацию отчета по покрытию / DevOps,leonid.laboshin,1581938851501,Open,Normal,2020.3,Fixes&Improvements,leonid.laboshin
+CMLB-6595,Queue / Лицензии / Изменения в дизайне плиток лицензий,alexey.tikhonov,1581678394064,Open,Normal,2020.3,New feature,sveta.pershay
+CMLB-6596,Submodel / Некорректное поведение при добавлении субмоделей и комплекс субмоделей к симуляции / BE,kirill.krasov,1581684400900,Open,Major,2020.3,Fixes&Improvements,alena.kamneva
+CMLB-6597,Queue / Resources / Сделать поле-фильтр Search для ввода названия тюнинга вместо кнопки Filters - Tunings / BE,alexey.tikhonov,1581689824608,Open,Normal,2020.3,New feature,sveta.pershay
+CMLB-6598,Bench / Изучение спецификаций / BA,maria.gruzdeva,1581941582338,Confirmed,Normal,2020.3,Organization,maria.gruzdeva
